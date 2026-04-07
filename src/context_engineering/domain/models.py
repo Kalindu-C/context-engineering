@@ -7,7 +7,6 @@ Defines Document, Chunk, Evidence, and related data structures.
 from dataclasses import dataclass, field
 from typing import Optional, Dict, Any
 
-
 @dataclass
 class Document:
     """

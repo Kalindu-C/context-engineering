@@ -6,7 +6,7 @@
 [![LangChain](https://img.shields.io/badge/LangChain-Latest-green.svg)](https://python.langchain.com/)
 [![Zuu Crew AI Standard](https://img.shields.io/badge/Architecture-Zuu%20Crew%20AI-orange.svg)](./docs/AGENT_API_BOOTSTRAP_PROMPT.md)
 
----
+--- ###################
 
 ## 📋 Table of Contents
 
